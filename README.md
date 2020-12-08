@@ -2,8 +2,6 @@
 
 Sou um Desenvolvedor Web / Full-stack, com experiência em desenvolvimento Back-end e mobile Android nativo utilizando Java e PHP.
 
-Atualmente, estou buscando oportunidades que me permitam desenvolver soluções inovadoras e que me proporcionem novos desafios. 
-
 <!--
 **VitorAugusto/vitoraugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
